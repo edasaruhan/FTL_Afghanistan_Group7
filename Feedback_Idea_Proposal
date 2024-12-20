@@ -1,0 +1,15 @@
+This project has strong potential to improve healthcare access and outcomes in underserved regions like Afghanistan. By focusing on early detection and prevention of common diseases, it addresses critical healthcare challenges. However, the proposal could benefit from more detail on practical implementation:
+
+    *Will the system be available as a mobile app, web platform, or integrated into healthcare facilities?
+    *How will it reach remote communities with limited healthcare infrastructure?
+    *Will it offer personalized health tips or interventions to individuals based on predictions?
+
+The idea is impactful, but to stand out further, consider highlighting:
+
+    *How the project will tailor disease detection models to local environmental and demographic factors, making predictions more accurate for Afghanistan’s unique conditions.
+    *The inclusion of real-time environmental data (e.g., pollution levels or climate data) for better context-aware predictions.
+
+Deep Learning Models 
+    *LSTMs are excellent for sequential data like patient histories. If computational resources allow, explore Transformers or hybrid approaches combining LSTMs with CNNs for improved accuracy.
+
+Overall, well structured idea proposal. Thank you :)
